@@ -11,3 +11,57 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.logo{
+  margin-top: 1rem;
+ 
+ }
+ .menu{
+   background-color: black;
+   color: white;
+   padding: 0.5rem;
+   margin-top: 2rem;
+   
+ }
+ .a{
+  text-align: center;
+ }
+ .a a{
+   text-decoration:none;
+   color: white;
+   padding-right: 2rem;
+   font-size: 1.5rem
+ }
+ .image{
+   margin-top: 2rem;
+   display: flex;
+  flex-wrap: wrap;
+ margin-right: 4rem;
+   
+  
+ }
+ .card1{
+   padding:2rem;
+ }
+.div4{
+  background-color: black;
+  padding:4rem;
+  justify-content: center;
+  align-items: center;
+}
+.div5{
+  margin-top: 2rem;
+
+}
+.div5 a{
+  text-decoration:none;
+  color: black;
+
+}
+.div6{
+  background-color: rgb(157, 247, 172);
+}
+
+
+
+
